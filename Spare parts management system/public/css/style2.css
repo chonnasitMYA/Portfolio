@@ -1,0 +1,57 @@
+.A4{
+	margin: 0 auto !important;
+	width: 27.9cm !important;
+	height: 29.7cm !important;
+	width: 100%;
+	height: 100%;
+	line-height: 168%;
+}
+.box1{
+	border: 1px solid #000;	
+}	
+
+.entertext1{
+	width: 200px;
+	word-wrap:break-word;
+}
+.entertext2{
+	width: 76px;
+	word-wrap:break-word;
+}
+.entertext3{
+	width: 200px;
+	word-wrap:break-word;
+}
+.entertext4{
+	width: 30px;
+	word-wrap:break-word;
+}
+.entertext5{
+	width: 150px;
+	word-wrap:break-word;
+}
+.sizebox5{
+	width: 90px;
+	height: 150px;
+}
+.entertext6{
+	width: 50px;
+	word-wrap:break-word;
+}
+.entertext7{
+	width: 5px;
+	word-wrap:break-word;
+}
+
+.entertext8{
+	width: 150px;
+	word-wrap:break-word;
+}
+.sizebox6{
+	height: 70px;
+}
+.sizebox7{
+	height: 50px;
+}
+
+

@@ -1,0 +1,212 @@
+@import url('https://fonts.googleapis.com/css?family=Vibur');
+body{
+	/*//font-family: 'Vibur', cursive;*/
+	background: #f7f7f7;
+/*	overflow-y:auto;
+	overflow-x:auto;*/
+	/*overflow:auto;*/
+}
+
+#aaa{
+	color: blue;
+}
+
+
+.bgColor{
+	background: : white;
+}
+.sizebox{
+	width: 130px;
+	height: 150px;
+	word-wrap:break-word;
+}
+.sizebox2{
+	width: 70px;
+	height: 150px;
+}
+.sizebox3{
+	width: 90px;
+	height: 150px;
+}
+.sizebox4{
+	width: 20px;
+	height: 150px;
+}
+.sizeBoxaddItem{
+	width: 600px;
+	height: 500px;
+}
+.buttonLogin{
+	width: 300px;
+	height: 50px;
+
+}
+.photoSize{
+  max-width:150px;
+  max-height:150px;
+  width: auto;
+  height: auto;
+
+
+}
+.box1 { 
+	border: 1px 
+	solid #000;
+	border-color: #d9d9d9;
+	background: #ffffff;
+	padding: 15px;
+
+}
+.box2{
+	width: 300px;
+    height:300px;
+    min-width: 300px;
+    min-height:200px;
+    border:1px solid #000000;
+    overflow-x: scroll;
+	
+	
+}
+.textSisze {
+  max-width:150px;
+  max-height:150px;
+  width: auto;
+  height: auto;
+
+	
+}
+.fixedTable {
+	width: 750px;
+	
+}
+.bgboxAdd{
+	background: #4d4d4d;
+}
+.phaseLeft{
+	margin-left: 20px;
+
+}
+.inlineee{
+	display:inline-block;
+}
+.fixtable{
+
+	
+}
+.minwidth{
+	min-width: 500px;
+}
+
+.buttonRight {
+  position: fixed;
+  bottom: 560px;
+  right: 1000px; 
+}
+
+.phaseBox{
+	margin: 500px ;width:300px;" 
+
+}
+.phaseleftBiberk{
+	margin-left: 100px;
+}
+
+.menubottom{
+    bottom: 0;
+    
+}
+.inline{
+	display: inline;
+}
+
+.v1{
+	
+	background-color:#f2e6ff !important
+}
+.photoSize2{
+  max-width:100px;
+  max-height:100px;
+  width: auto;
+  height: auto;
+
+
+}
+.marginleft{
+	
+	margin-left:10px;
+}
+.text{
+	
+	padding-left: middle;
+
+	 
+}
+.entertext1{
+	width: 140px;
+	word-wrap:break-word;
+}
+.entertext2{
+	width: 76px;
+	word-wrap:break-word;
+}
+.entertext3{
+	width: 140px;
+	word-wrap:break-word;
+}
+.entertext4{
+	width: 200px;
+	word-wrap:break-word;
+}
+.entertext5{
+	width: 30px;
+	word-wrap:break-word;
+}
+.sizebox5{
+	width: 90px;
+	height: 150px;
+}
+.entertext6{
+	width: 50px;
+	word-wrap:break-word;
+}
+.entertext7{
+	width: 150px;
+	word-wrap:break-word;
+}
+.entertext8{
+	width: 52px;
+	word-wrap:break-word;
+}
+.mySlides {
+	display:none;
+}
+#slid{
+	width: 300px;
+	height: 300px;
+}
+.box3 { 
+	border: 1px 
+	solid #000;
+	border-color: #d9d9d9;
+	background: #f7f7f7;
+	padding: 15px;
+
+}
+
+.entertext9{
+	width: 76px;
+	word-wrap:break-word;
+}
+.entertext10{
+	width: 100px;
+	word-wrap:break-word;
+}
+
+.entertext11{
+	width: 70px;
+	word-wrap:break-word;
+}
+.sizebox6{
+	width: 70px;
+	height: 150px;
+}
